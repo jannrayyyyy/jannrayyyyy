@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning dart/flutter
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 📫 How to reach me: jannmostajo02@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: i can play guitar
 
 <h3 align="left">Connect with me:</h3>

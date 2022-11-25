@@ -1,3 +1,8 @@
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KyleReginaldo.KyleReginaldo)
+[![GitHub followers](https://img.shields.io/github/followers/karlreginaldo.svg?style=social&label=Follow)](https://github.com/KyleReginaldo?tab=followers)
+
+ 
+ 
  Hi there 👋 Im Jann Ray
  
 

@@ -26,5 +26,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jannrayyyyy&" alt="jannrayyyyy" /></p>
 
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlreginaldo&show_icons=true&theme=radical)
+
+
 ## My Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannrayyyyy&layout=compact)

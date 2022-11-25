@@ -1,5 +1,5 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KyleReginaldo.KyleReginaldo)
-[![GitHub followers](https://img.shields.io/github/followers/janrayyyyy.svg?style=social&label=Follow)](https://github.com/jannrayyyyy?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/karljanReginaldo.svg?style=social&label=Follow)](https://github.com/jannrayyyyy?tab=followers)
 
  
  

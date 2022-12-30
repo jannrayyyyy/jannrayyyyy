@@ -7,7 +7,7 @@
  
 
 - 🔭 I’m currently working on flutter
-- 🌱 I’m currently learning Firebase and Web native
+- 🌱 I’m currently learning Firebase and Supabase
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 📫 How to reach me: jannmostajo02@gmail.com
 - 😄 Pronouns: he/him/his

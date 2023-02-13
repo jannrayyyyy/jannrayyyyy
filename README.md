@@ -19,8 +19,7 @@
 <a href="https://www.instagram.com/_jannrayyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jannrayyy" height="30" width="40" /></a>
 </p>
 
- <div style="background-color: white">
-      <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
       <p align="left">
         <a href="https://dart.dev" target="_blank" rel="noreferrer">
           <img
@@ -87,7 +86,6 @@
           />
         </a>
       </p>
-    </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jannrayyyyy&" alt="jannrayyyyy" /></p>
 

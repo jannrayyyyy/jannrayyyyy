@@ -85,6 +85,14 @@
             height="40"
           />
         </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+            alt="Node Js"
+            width="40"
+            height="40"
+          />
+        </a>
       </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jannrayyyyy&" alt="jannrayyyyy" /></p>

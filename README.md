@@ -63,7 +63,7 @@
         </a>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
           <img
-            src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"
+            src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"
             alt="Next Js"
             width="40"
             height="40"
